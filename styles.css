@@ -1,0 +1,48 @@
+h1 {
+    color: #5e9ca0; 
+    text-align: center;
+}
+body {
+    text-align: center;
+}
+button {
+    border-radius: 3px;
+}
+#stat_header {
+    margin:0 auto;
+    border-radius: 25px;
+    background: #e7e7e7;
+    width: 900px;
+    height: 100px;
+}
+#head_section1 {
+    margin: 15px 100px 20px 100px;
+    display: inline-block;
+}
+#view_check {
+    margin-left: 50px;
+}
+#refresh_btn {
+    margin-left: 50px;
+}
+#clear_btn {
+    margin-left: 30px;
+}
+#uuid_input {
+    width: 500px;
+}
+#stat_content {
+    margin: 0 auto;
+    width: 1000px;
+    height: 1000px;
+}
+#stat_table {
+    margin: 0 auto;
+    border: 2px solid #5e9ca0;
+}
+table td {
+    border:1px solid #5e9ca0;
+}
+thead, tbody {
+    display: block; 
+}
